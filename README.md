@@ -1,4 +1,4 @@
-#My Name is Uday Shankar In this project I used Machine Learning to create a Real Time American Sign Language Detector
+My Name is Uday Shankar In this project I used Machine Learning to create a Real Time American Sign Language Detector
 
 1)TrainYourModel Run this code to capture photos of the various signs i.e. create your own dataset
 Now create your model using Teaching Machine
